@@ -6,11 +6,11 @@
 /*   By: hhagiwar <hhagiwar@student.42Tokyo.jp>     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/06/04 16:19:26 by hhagiwar          #+#    #+#             */
-/*   Updated: 2023/08/03 13:46:40 by hhagiwar         ###   ########.fr       */
+/*   Updated: 2023/10/30 16:11:51 by hhagiwar         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "push_swap.h"
+#include "../push_swap.h"
 
 static int	is_space_check(int c)
 {

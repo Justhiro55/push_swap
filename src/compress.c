@@ -6,11 +6,11 @@
 /*   By: hhagiwar <hhagiwar@student.42Tokyo.jp>     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/10 16:27:00 by hhagiwar          #+#    #+#             */
-/*   Updated: 2023/08/03 13:36:23 by hhagiwar         ###   ########.fr       */
+/*   Updated: 2023/10/30 16:11:55 by hhagiwar         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "push_swap.h"
+#include "../push_swap.h"
 
 void	compress_data(struct stack *stack)
 {

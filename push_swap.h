@@ -6,15 +6,15 @@
 /*   By: hhagiwar <hhagiwar@student.42Tokyo.jp>     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/07 16:07:02 by hhagiwar          #+#    #+#             */
-/*   Updated: 2023/10/30 15:41:56 by hhagiwar         ###   ########.fr       */
+/*   Updated: 2023/10/30 16:11:37 by hhagiwar         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef PUSH_SWAP_H
 # define PUSH_SWAP_H
 
-# include "../func/ft_printf/ft_printf.h"
-# include "../func/libft/libft.h"
+# include "./func/ft_printf/ft_printf.h"
+# include "./func/libft/libft.h"
 
 typedef struct stack
 {

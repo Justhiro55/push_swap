@@ -6,11 +6,11 @@
 /*   By: hhagiwar <hhagiwar@student.42Tokyo.jp>     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/10 13:59:33 by hhagiwar          #+#    #+#             */
-/*   Updated: 2023/08/07 15:26:51 by hhagiwar         ###   ########.fr       */
+/*   Updated: 2023/10/30 16:11:58 by hhagiwar         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "push_swap.h"
+#include "../push_swap.h"
 
 int	error_handling(int argc, char *argv[])
 {

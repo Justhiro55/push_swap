@@ -6,11 +6,11 @@
 /*   By: hhagiwar <hhagiwar@student.42Tokyo.jp>     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/14 16:16:26 by hhagiwar          #+#    #+#             */
-/*   Updated: 2023/10/30 15:41:46 by hhagiwar         ###   ########.fr       */
+/*   Updated: 2023/10/30 16:11:48 by hhagiwar         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "push_swap.h"
+#include "../push_swap.h"
 
 void	two_cases_alg(struct stack *stack, int argc)
 {

@@ -6,11 +6,11 @@
 /*   By: hhagiwar <hhagiwar@student.42Tokyo.jp>     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/11 17:00:38 by hhagiwar          #+#    #+#             */
-/*   Updated: 2023/07/26 17:22:15 by hhagiwar         ###   ########.fr       */
+/*   Updated: 2023/10/30 16:12:01 by hhagiwar         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "push_swap.h"
+#include "../push_swap.h"
 
 void	swap(struct stack *stack)
 {

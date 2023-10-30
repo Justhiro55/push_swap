@@ -6,11 +6,11 @@
 /*   By: hhagiwar <hhagiwar@student.42Tokyo.jp>     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/20 15:43:16 by hhagiwar          #+#    #+#             */
-/*   Updated: 2023/08/05 15:20:04 by hhagiwar         ###   ########.fr       */
+/*   Updated: 2023/10/30 16:12:09 by hhagiwar         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "push_swap.h"
+#include "../push_swap.h"
 
 int	search_num(struct stack *stack_a, int start, int chunk, int i)
 {

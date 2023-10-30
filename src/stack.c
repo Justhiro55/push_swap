@@ -6,11 +6,11 @@
 /*   By: hhagiwar <hhagiwar@student.42Tokyo.jp>     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/11 13:21:29 by hhagiwar          #+#    #+#             */
-/*   Updated: 2023/08/07 15:12:18 by hhagiwar         ###   ########.fr       */
+/*   Updated: 2023/10/30 16:12:07 by hhagiwar         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "push_swap.h"
+#include "../push_swap.h"
 
 int	pop_stack(struct stack *stack)
 {

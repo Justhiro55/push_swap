@@ -6,11 +6,11 @@
 /*   By: hhagiwar <hhagiwar@student.42Tokyo.jp>     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/27 16:59:10 by hhagiwar          #+#    #+#             */
-/*   Updated: 2023/07/27 19:07:27 by hhagiwar         ###   ########.fr       */
+/*   Updated: 2023/10/30 16:12:04 by hhagiwar         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "push_swap.h"
+#include "../push_swap.h"
 
 int	free_array(char **str)
 {
