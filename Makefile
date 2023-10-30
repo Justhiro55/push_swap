@@ -6,13 +6,13 @@
 #    By: hhagiwar <hhagiwar@student.42Tokyo.jp>     +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2023/06/15 17:24:52 by hhagiwar          #+#    #+#              #
-#    Updated: 2023/08/07 15:09:31 by hhagiwar         ###   ########.fr        #
+#    Updated: 2023/10/30 15:40:05 by hhagiwar         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
 NAME = push_swap
 
-SRC = algorithm.c check_atoi.c compress.c error.c exec.c free.c push_swap.c stack.c utils_alg.c \
+SRC = src/algorithm.c src/check_atoi.c src/compress.c src/error.c src/exec.c src/free.c src/push_swap.c src/stack.c src/utils_alg.c \
 		func/libft/ft_isalpha.c \
 		func/libft/ft_isdigit.c \
 		func/libft/ft_isalnum.c \
